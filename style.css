@@ -1,0 +1,52 @@
+
+
+.azul{
+    color: aqua;
+    font-size: medium;
+    font-family:sans-serif;
+ }
+
+ .roxo{
+    color: blueviolet;
+ }
+
+ h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: x-large;
+    font-family: sans-serif;
+ }
+ #roxo{
+   color: rgb(159, 36, 241);
+}
+.rosa{
+   color: rgb(232, 0, 151);
+}
+
+.letra{
+   font-family: Raleway;
+}
+
+.cabecalho-nav{
+   display: flex;
+   flex-direction: row;
+   gap: 50px;
+}
+
+.cabecalho-link{
+   
+   text-decoration: none;
+   color: rgb(241, 55, 213);
+   font-size: 24px;
+}
+
+.black{
+   background-color: black;
+}
+
+.letra{
+   color: aliceblue;
+   font-family: Ralew
+}
+
+

@@ -1,0 +1,15 @@
+h1{ 
+    text-align:center;
+    color: blueviolet;
+}
+h2{
+    color: aqua;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+img{
+    border: 5px ;
+}
